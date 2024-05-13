@@ -1,3 +1,4 @@
+package trail_codes;
 public class test_multiply {
     public static void main(String[] args) {
         int num1 = 10;

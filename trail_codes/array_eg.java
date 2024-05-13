@@ -1,3 +1,4 @@
+package trail_codes;
 public class array_eg {
     public static void main(String []args){
         // Define an integer array 'numA' with a limit of three elements

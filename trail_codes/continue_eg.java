@@ -1,3 +1,4 @@
+package trail_codes;
 public class continue_eg {
     public static void main (String []args){
         int  n = 10;

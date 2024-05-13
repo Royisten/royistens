@@ -1,3 +1,4 @@
+package trail_codes;
 public class testaddition {
     public static void main(String[] args) {
         int num1 = 10;

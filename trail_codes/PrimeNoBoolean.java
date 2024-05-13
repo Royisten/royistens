@@ -1,3 +1,4 @@
+package trail_codes;
 import java.util.Scanner;
 
 public class PrimeNoBoolean {

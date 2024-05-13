@@ -1,6 +1,7 @@
+package trail_codes;
 import java.util.Scanner;
-
-public class IF {
+public class if2 {
+    
     public static void main (String []args){
         Scanner value = new Scanner(System.in);
         System.out.println("Enter a value between 1-100");
@@ -24,3 +25,4 @@ public class IF {
 
     }
 }
+

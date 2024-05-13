@@ -1,3 +1,4 @@
+package trail_codes;
 public class add {
     public static void main(String []args){
         int no1 = 5;
