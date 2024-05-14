@@ -1,6 +1,6 @@
 package JavaOOPS;
 
-public class firstOOPS {
+public class FIRSTOOPS {
     public static void main(String oopssample[]){
         SAMPLE_FIRSTOOPS s1= new SAMPLE_FIRSTOOPS();
         SAMPLE_FIRSTOOPS s2 = new SAMPLE_FIRSTOOPS();
