@@ -1,7 +1,7 @@
 package trail_codes;
 
 import java.util.Scanner;
-
+// function without arguments but has a return value
 public class function5 {
     
       public static void main (String []args){
@@ -9,8 +9,6 @@ public class function5 {
         int result;
         result=Twosum();
         System.out.print("Sum is : "+result + "\n");
-      
-        
         s.close();
 } 
 public static int Twosum(){
