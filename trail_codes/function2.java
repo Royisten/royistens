@@ -22,6 +22,7 @@ public class function2 {
 
         so.close();
         //testgit 
+        // for a void function there is no need for a return value
 
     }
 }

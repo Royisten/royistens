@@ -2,7 +2,9 @@ package trail_codes;
 
 import java.util.Scanner;
 // trying functions in java:)
-// fuctions without arguments and return value of null (0)
+// fuctions without arguments and return value of null (0) which is equal to no return value or 
+//You can also use return null; but the function should not be declared as a integer like the function mentioned here 
+// so we use return (0);
 public class fuction01 {
     public static void main (String []args){
         Scanner sca= new Scanner(System.in);
@@ -35,5 +37,6 @@ public class fuction01 {
         System.out.println("the result is "+ result );
         sca.close();
         return 0;
+        
     }
 }

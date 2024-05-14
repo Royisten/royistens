@@ -13,11 +13,11 @@ public class functon4 {
         TwoSum(a, b);
         s.close();
 } 
-public static int TwoSum(int numa, int numb){
+public static void TwoSum(int numa, int numb){
 
     int c;
     c=numa+numb;
     System.out.println("Result is : "+c);
-    return(0);
+    
 }
 }
