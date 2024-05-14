@@ -1,10 +1,12 @@
 package trail_codes;
 
 import java.util.Scanner;
-
+// trying functions in java:)
+// fuctions without arguments and eturn value 
 public class fuction01 {
     public static void main (String []args){
         Scanner sca= new Scanner(System.in);
+        
         int prompt;
         int Y = 0;
         
