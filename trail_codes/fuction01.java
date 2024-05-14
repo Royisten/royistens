@@ -10,7 +10,7 @@ public class fuction01 {
         int prompt;
         int Y = 0;
         
-        System.out.println("press 0 for addition & 1 for to get a wink");
+        System.out.println("press 0 for addition or get a wink");
         prompt=sca.nextInt();
         if (prompt==Y) {
             twosum();
