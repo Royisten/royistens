@@ -8,9 +8,11 @@ public class FIRSTOOPS {
          s1.b=25;
          s2.a=68;
          s2.b=57;
-         System.out.print("first object for tha sample class : "+s1.a +" , "+ s1.b);
-         System.out.println(" ");
-         System.out.print("Second object for tha sample class : "+s2.a +" , "+ s2.b +"\n");
+        System.out.print("first object for tha sample class : "+s1.a +" , "+ s1.b);
+        System.out.println(" ");
+        System.out.print("Second object for tha sample class : "+s2.a +" , "+ s2.b +"\n");
+        s1.displayB();
+        s2.displayA();
     }
 
     
