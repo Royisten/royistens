@@ -2,7 +2,7 @@ package trail_codes;
 
 import java.util.Scanner;
 //function with arguments but no return value
-public class functon4 {
+public class function4 {
       public static void main (String []args){
         Scanner s = new Scanner(System.in);
         int a,b;
