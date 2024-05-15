@@ -13,6 +13,9 @@ public class SecondOOPS {
         k.printsum2();
         k1.calsum2(num1, num2);
         k1.printsum2();
-
+        k.printsum2();
+        //this function can print without calculation to check out why (ctrl + right click) "printsum3"
+        k.printsum3(numa, numb);
+       
     }
 }
