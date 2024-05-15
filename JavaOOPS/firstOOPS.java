@@ -1,7 +1,11 @@
 package JavaOOPS;
 
 public class FirstOOPS {
+    int a=10;// Non-static field
+    // int a cannot be assesed directly since its a non static , so we create am object for it 
     public static void main(String oopssample[]){
+        FirstOOPS i=new FirstOOPS();// Create an instance(object) "i" of FirstOOPS
+        System.out.println(i.a);// Access the non-static variable "a" through the instance(object)
         //creating objects for the class "SAMPLE_FIRSTOOPS.java" as "s1" & "s2".
         SAMPLECLASS s1= new SAMPLECLASS();
         SAMPLECLASS s2 = new SAMPLECLASS();
