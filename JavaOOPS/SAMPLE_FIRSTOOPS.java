@@ -9,4 +9,8 @@ public class SAMPLE_FIRSTOOPS{
     void displayB(){
         System.out.println(b);
     }
+    void calculatesum(){
+        int c=a+b;
+        System.out.println(c);
+    }
 }

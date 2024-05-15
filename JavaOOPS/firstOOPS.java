@@ -13,6 +13,7 @@ public class FIRSTOOPS {
         System.out.print("Second object for tha sample class : "+s2.a +" , "+ s2.b +"\n");
         s1.displayB();
         s2.displayA();
+        s2.calculatesum();
     }
 
     
