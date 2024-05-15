@@ -14,6 +14,7 @@ public class FIRSTOOPS {
         s1.displayB();
         s2.displayA();
         s2.calculatesum();
+        s2.Printsum();
     }
 
     
