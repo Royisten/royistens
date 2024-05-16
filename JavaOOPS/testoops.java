@@ -3,8 +3,17 @@ package JavaOOPS;
 import java.util.Scanner;
 
 public class testoops {
-   
+   static int b=25; // static variable b initialized to 25
+
     public static void main(String test1[]){
+        testoops h =new testoops();
+        testoops h1 = new testoops();
+        h.b = 122;
+        h1.b=125;
+        b=2550;
+        System.out.println(h.b);
+        // for a static variable it would have a seper
+        
         // calling the method display
         display();
         //we can also directly call the class variable "a" since main is also a static
