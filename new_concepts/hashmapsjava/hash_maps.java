@@ -21,7 +21,7 @@
 
  // This is a Java program demonstrating the usage of HashMaps.
 
-package new_concepts;
+package hashmapsjava;
 
 import java.util.HashMap;
 
