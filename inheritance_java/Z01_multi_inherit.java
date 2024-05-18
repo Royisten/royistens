@@ -14,6 +14,6 @@ public class Z01_multi_inherit  extends Z01_man{
     }
 }
 /*
- * this is just a sample i did to try to acheive multiple inheritance by just using object and inheritance
+ * this is just a sample i did to try to acheive multiple inheritance by just using oops and inheritance
  * the result is that it prints three outputs of three different methods from a single program including it's own output
  */
