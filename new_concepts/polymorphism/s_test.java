@@ -20,6 +20,8 @@ public class s_test extends s_test01 {
         display();// prints the method in "s_test",along with "a" that has newly assigned value "501"
         System.out.println(v);// "v" in "s-test"
         System.out.println(super.v); //"v" in "s_test01"
+        int m= v+super.v;
+        System.out.println(m);
         
         
     }
