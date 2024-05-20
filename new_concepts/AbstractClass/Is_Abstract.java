@@ -1,8 +1,11 @@
 package AbstractClass;
 
-abstract class Is_Abstract {
-    abstract void displayAbstract();
-    void display(){
+public abstract class Is_Abstract {
+    //abstract method is not defined
+    //using string as an argument
+    abstract void displayAbstract(String wow);
+    //ordinary method wiyh definition
+    void NotAbstractDisplay(){
         System.out.println("Class : Abstact , Method : not Abstract");
     }
 }
