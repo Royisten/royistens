@@ -1,8 +1,10 @@
 package constructor_java;
 
 public class passing_object01 {
-    void display(passing_object02 B){
-        B.display();
+    //argument uses class name (passing_object02),
+    //and a name for the instance (which is B) that has been passed as an argument (c)
+    void display(passing_object02 c){
+        c.display();
     
     }
 }/*when this method "dispaly()" is called by "passing_object03" it starts by,
