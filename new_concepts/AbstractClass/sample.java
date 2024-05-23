@@ -16,6 +16,8 @@ public class sample extends hello{
     sample(){
         //creating an instance of testscanner and using "this" keyword for passing the current object 
         //refer "passing_object01.java" in "constructor_java" for more understanding
+        //since we have created a refernce of "this" in the constructor "testscanner"
+        //we can absolutly call the 
         testScanner trailobj = new testScanner(this);
         //calling the method scan() in testscanner
         trailobj.scan();
@@ -25,3 +27,6 @@ public class sample extends hello{
         //sample s = new sample();     //remove(//) to run the code 
     }
 }
+/*
+ * refer 100k coding challenge part 9 in youtube 
+ */

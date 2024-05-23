@@ -3,6 +3,8 @@ package AbstractClass;
 public class testScanner {
     hello obj;
     public testScanner(hello objnull){
+        //this creates a reference which helps to call the instance of (hello) named (obj)
+        //which is  globally defined as "objnull" 
         this.obj=objnull;
     }
     void scan(){
@@ -16,6 +18,7 @@ public class testScanner {
          * then put out to the below code which is using a abstract method from class "hello"
         */
         String test = "Trail scanned test";
+        //here "obj" is used as a global object which has been made possible using "this"
      obj.ontest(test);
     }
 }
