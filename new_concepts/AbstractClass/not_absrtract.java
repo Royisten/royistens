@@ -8,10 +8,12 @@ public class not_absrtract extends Is_Abstract {
         System.out.println("Class : Abstact (extended), Method : Abstract");
         System.out.println(notwow);
     }
+    
     public static void main (String ho[]){
     not_absrtract show = new not_absrtract();
     show.NotAbstractDisplay();//calling the orinary class
     show.displayAbstract("work");// calling the absract class with a "string" argument
+    
     }
      
     }

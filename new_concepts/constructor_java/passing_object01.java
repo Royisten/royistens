@@ -2,7 +2,7 @@ package constructor_java;
 
 public class passing_object01 {
     //argument uses class name (passing_object02),
-    //and a name for the instance (which is B) that has been passed as an argument (c)
+    //and a name for the instance (which is B) that has been passed as an argument  object (c)
     void display(passing_object02 c){
         c.display();
     
