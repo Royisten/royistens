@@ -1,7 +1,7 @@
 package Interface;
 //we can import files across folders by just using "import" 
 //and specific files by mentioning their name. 
-import JavaOOPS.test;
+import JavaOOPS.SAMPLECLASS;
 
 public class sample implements hello{
  
@@ -14,7 +14,7 @@ public class sample implements hello{
   s.display();
   @SuppressWarnings("unused")
   
-  //using "test" class of javaOOPS by creating a instance of "test"
-  test testinstance = new test();
+  //using "SAMPLECLASS" class of javaOOPS by creating a instance of "SAMPLECLASS"
+  SAMPLECLASS testinstance = new SAMPLECLASS();
 }
 }
