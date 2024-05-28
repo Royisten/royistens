@@ -18,7 +18,7 @@ public void run()
     for (int i = 0; i <=10; i++) 
         {
             System.out.println("Thread Count"+i +"\n\t");
-            /*and to use thred.sleep we need to
+            /*and to use thread.sleep we need to
             surrond it by "try" block 
             */
             try 
